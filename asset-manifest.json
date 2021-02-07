@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/react_web_responsive/static/css/main.d85ab5e6.chunk.css",
-    "main.js": "/react_web_responsive/static/js/main.b7b52421.chunk.js",
-    "main.js.map": "/react_web_responsive/static/js/main.b7b52421.chunk.js.map",
+    "main.css": "/react_web_responsive/static/css/main.fb7425ee.chunk.css",
+    "main.js": "/react_web_responsive/static/js/main.94f37c7b.chunk.js",
+    "main.js.map": "/react_web_responsive/static/js/main.94f37c7b.chunk.js.map",
     "runtime-main.js": "/react_web_responsive/static/js/runtime-main.4edffa00.js",
     "runtime-main.js.map": "/react_web_responsive/static/js/runtime-main.4edffa00.js.map",
-    "static/js/2.2589541e.chunk.js": "/react_web_responsive/static/js/2.2589541e.chunk.js",
-    "static/js/2.2589541e.chunk.js.map": "/react_web_responsive/static/js/2.2589541e.chunk.js.map",
+    "static/js/2.798e7884.chunk.js": "/react_web_responsive/static/js/2.798e7884.chunk.js",
+    "static/js/2.798e7884.chunk.js.map": "/react_web_responsive/static/js/2.798e7884.chunk.js.map",
     "index.html": "/react_web_responsive/index.html",
-    "static/css/main.d85ab5e6.chunk.css.map": "/react_web_responsive/static/css/main.d85ab5e6.chunk.css.map",
-    "static/js/2.2589541e.chunk.js.LICENSE.txt": "/react_web_responsive/static/js/2.2589541e.chunk.js.LICENSE.txt",
+    "static/css/main.fb7425ee.chunk.css.map": "/react_web_responsive/static/css/main.fb7425ee.chunk.css.map",
+    "static/js/2.798e7884.chunk.js.LICENSE.txt": "/react_web_responsive/static/js/2.798e7884.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react_web_responsive/static/media/img-8.fabdf94d.jpg",
-    "static/media/HeroSection.css": "/react_web_responsive/static/media/img-home.c034239e.jpg"
+    "static/media/img-3.6d683c0e.jpg": "/react_web_responsive/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/react_web_responsive/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/react_web_responsive/static/media/img-9.f97f588f.jpg",
+    "static/media/video-1.59e75226.mp4": "/react_web_responsive/static/media/video-1.59e75226.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.4edffa00.js",
-    "static/js/2.2589541e.chunk.js",
-    "static/css/main.d85ab5e6.chunk.css",
-    "static/js/main.b7b52421.chunk.js"
+    "static/js/2.798e7884.chunk.js",
+    "static/css/main.fb7425ee.chunk.css",
+    "static/js/main.94f37c7b.chunk.js"
   ]
 }
