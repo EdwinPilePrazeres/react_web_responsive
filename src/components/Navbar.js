@@ -37,7 +37,7 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/react_web_responsive' className='nav-links' onClick={closeMobileMenu}>
                 Home
               </Link>
             </li>
